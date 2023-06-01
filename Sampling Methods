@@ -1,1 +1,11 @@
 Optimization Sampling Methods
+
+Optimization and sampling are two of the most important mathematical topics at the interface of data science and computation. 
+The two questions are, in fact, connected mathematically through a powerful framework articulated around the geometry of probability distributions. 
+The geometric toolbox that underlies optimization and sampling was initiated in the study of partial differential equations (PDEs) and has evolved into different mathematical disciplines: 
+probability, calculus of variations, analysis and geometry. 
+While connections are slowly beginning to percolate across disciplines, this program is aimed to be a catalyst for new and interdisciplinary ideas using a principled and unified approach to optimization and sampling.
+Reference : https://simons.berkeley.edu/programs/geometric-methods-optimization-sampling
+ 
+Monte Carlo sampling algorithms
+Pareto
