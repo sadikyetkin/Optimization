@@ -9,3 +9,9 @@ Reference : https://simons.berkeley.edu/programs/geometric-methods-optimization-
  
 Monte Carlo sampling algorithms
 Pareto
+Hypercube Sampling 
+
+from scipy.stats.qmc import LatinHypercube
+
+engine = LatinHypercube(d=2)
+sample = engine.random(n=100)
