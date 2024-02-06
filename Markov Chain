@@ -2,3 +2,11 @@ Markov Chain
 
 I will keep the notes about Markov Chain in this page. These are just random notes 
 
+Markov Chain Analysis, Author : W. Li, C. Zhang, International Encyclopedia of Human Geography 2009, Pages 455-460
+
+A Markov chain is a process that consists of a finite number of states with the Markovian property and some transition probabilities pij, 
+where pij is the probability of the process moving from state i to state j. 
+Andrei Markov, a Russian mathematician, was the first one to study this process. At the beginning of last century, 
+he developed the fundamentals of the Markov chain theory. Markov chains are traditionally used for one-dimensional time series or spatial series analysis in a variety of fields from economics to stratigraphy. 
+Markov chains were extended for multidimensional simulation recently with the proposition of a Markov chain random field theory and its attendant spatial measure – the transiogram. 
+This article focuses on introducing basic one-dimensional Markov chain models and recent progress in Markov chain geostatistics – the multidimensional extension of Markov chains.
