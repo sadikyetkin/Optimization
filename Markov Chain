@@ -10,3 +10,5 @@ Andrei Markov, a Russian mathematician, was the first one to study this process.
 he developed the fundamentals of the Markov chain theory. Markov chains are traditionally used for one-dimensional time series or spatial series analysis in a variety of fields from economics to stratigraphy. 
 Markov chains were extended for multidimensional simulation recently with the proposition of a Markov chain random field theory and its attendant spatial measure – the transiogram. 
 This article focuses on introducing basic one-dimensional Markov chain models and recent progress in Markov chain geostatistics – the multidimensional extension of Markov chains.
+
+
